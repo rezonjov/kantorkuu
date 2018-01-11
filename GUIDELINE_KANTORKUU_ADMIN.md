@@ -116,3 +116,6 @@ Void Transaction feature is also made available for payments. The void transacti
 This menu will list all available reporting data. Use the provided date range filter to get the report you need.
 
 All the report's format was specifically designed by request. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyMTYzODM1N119
+-->
